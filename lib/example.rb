@@ -11,3 +11,8 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
+
+def greeting
+    phrase
+end
+greeting
